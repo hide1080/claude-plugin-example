@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/check-after-edit.sh"
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/scripts/check-after-edit.sh"
           }
         ]
       }
@@ -17,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/block-dangerous-command.sh"
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/scripts/block-dangerous-command.sh"
           }
         ]
       }

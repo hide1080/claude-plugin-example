@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "taskboard-dev-kit",
-      "source": "./",
+      "source": "./plugins/taskboard-dev-kit",
       "description": "プラグインの例：題材はタスクボード開発チーム（スキル・エージェント・フック・MCP）"
     }
   ]
