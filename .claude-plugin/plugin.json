@@ -1,5 +1,5 @@
 {
-  "name": "claude-plugin-example",
+  "name": "taskboard-dev-kit",
   "version": "1.0.0",
   "description": "プラグインの例：題材はタスクボード開発チーム（スキル・エージェント・フック・MCP）",
   "author": {

@@ -1,0 +1,14 @@
+{
+  "name": "claude-plugin-example",
+  "owner": {
+    "name": "hide1080"
+  },
+  "description": "Claude プラグインのマーケットプレイスの例",
+  "plugins": [
+    {
+      "name": "taskboard-dev-kit",
+      "source": "./",
+      "description": "プラグインの例：題材はタスクボード開発チーム（スキル・エージェント・フック・MCP）"
+    }
+  ]
+}
